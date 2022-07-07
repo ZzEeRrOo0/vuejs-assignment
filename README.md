@@ -1,5 +1,10 @@
 # vuejs-assignment
 
+## vue version
+```
+use default vue 3
+```
+
 ## Project setup
 ```
 yarn install
